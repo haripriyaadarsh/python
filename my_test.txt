@@ -1,0 +1,7 @@
+Testing Strategy
+Unit Testing
+System and Integration Testing
+Performance and Stress Testing
+User Acceptance Testing
+Batch Testing
+Beta Testing
